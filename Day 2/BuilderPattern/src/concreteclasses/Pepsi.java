@@ -1,0 +1,16 @@
+package concreteclasses;
+
+import abstractclasses.ColdDrink;
+
+public class Pepsi extends ColdDrink{
+
+	@Override
+	public String name() {
+		return "Pepsi";
+	}
+
+	@Override
+	public float price() {
+		return 30.0f;
+	}
+}

@@ -1,0 +1,40 @@
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.ObserverMain  - Start of main()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - Start of AddSubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - End of AddSubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - Start of AddSubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - End of AddSubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - Start of AddSubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - End of AddSubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - Start of NotifySubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - Start of on100TicketBook()
+DEBUG   2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - 100+ Ticket booked by Mr. X
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - End of on100TicketBook()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - Start of on100TicketBook()
+DEBUG   2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - 100+ Ticket booked by Mr. Z
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - End of on100TicketBook()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - End of NotifySubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - Start of RemoveSubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - End of RemoveSubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - Start of NotifySubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - Start of on100TicketBook()
+DEBUG   2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - 100+ Ticket booked by Mr. X
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - End of on100TicketBook()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - Start of on100TicketBook()
+DEBUG   2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - 100+ Ticket booked by Mr. Z
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.Admin  - End of on100TicketBook()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.observer.concreteclasses.NotificationService  - End of NotifySubscriber()
+INFO    2020-05-10 12:26:33,171 [main] finalCheck.ObserverMain  - End of main()
+INFO    2020-05-10 12:27:40,677 [main] finalCheck.Customer  - Start of main()
+INFO    2020-05-10 12:27:40,677 [main] finalCheck.abstractfactory.classes.ElectronicOrder  - Start of processOrder()
+DEBUG   2020-05-10 12:27:40,677 [main] finalCheck.abstractfactory.classes.ElectronicOrder  - Processing Electronic Products Order
+INFO    2020-05-10 12:27:40,677 [main] finalCheck.abstractfactory.classes.ElectronicOrder  - End of processOrder()
+DEBUG   2020-05-10 12:27:40,677 [main] finalCheck.Customer  - ELECTRONIC ordered via ECOMMERCE.
+INFO    2020-05-10 12:27:40,677 [main] finalCheck.abstractfactory.classes.ToysOrder  - Start of processOrder()
+DEBUG   2020-05-10 12:27:40,677 [main] finalCheck.abstractfactory.classes.ToysOrder  - Processing Toys Order
+INFO    2020-05-10 12:27:40,677 [main] finalCheck.abstractfactory.classes.ToysOrder  - End of processOrder()
+DEBUG   2020-05-10 12:27:40,677 [main] finalCheck.Customer  - TOYS ordered via TELECALLER.
+INFO    2020-05-10 12:27:40,677 [main] finalCheck.abstractfactory.classes.FurnitureOrder  - Start of processOrder()
+DEBUG   2020-05-10 12:27:40,677 [main] finalCheck.abstractfactory.classes.FurnitureOrder  - Processing Furniture Order
+INFO    2020-05-10 12:27:40,677 [main] finalCheck.abstractfactory.classes.FurnitureOrder  - End of processOrder()
+DEBUG   2020-05-10 12:27:40,677 [main] finalCheck.Customer  - FURNITURE ordered via ECOMMERCE.
+INFO    2020-05-10 12:27:40,677 [main] finalCheck.Customer  - End of main()

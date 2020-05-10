@@ -1,0 +1,53 @@
+INFO    2020-05-10 12:01:25,103 [main] practiceCheck.ObserverMain  - Start of main()
+INFO    2020-05-10 12:01:25,119 [main] practiceCheck.observer.concreteclasses.NotificationService  - Start of AddSubscriber()
+INFO    2020-05-10 12:01:25,119 [main] practiceCheck.observer.concreteclasses.NotificationService  - End of AddSubscriber()
+INFO    2020-05-10 12:01:25,119 [main] practiceCheck.observer.concreteclasses.NotificationService  - Start of AddSubscriber()
+INFO    2020-05-10 12:01:25,119 [main] practiceCheck.observer.concreteclasses.NotificationService  - End of AddSubscriber()
+INFO    2020-05-10 12:01:25,119 [main] practiceCheck.observer.concreteclasses.NotificationService  - Start of NotifySubscriber()
+INFO    2020-05-10 12:01:25,120 [main] practiceCheck.observer.concreteclasses.SteveObserver  - Start of onServerDown()
+INFO    2020-05-10 12:01:25,120 [main] practiceCheck.observer.concreteclasses.SteveObserver  - End of onServerDown()
+INFO    2020-05-10 12:01:25,120 [main] practiceCheck.observer.concreteclasses.JohnObserver  - Start of onServerDown()
+INFO    2020-05-10 12:01:25,120 [main] practiceCheck.observer.concreteclasses.JohnObserver  - End of onServerDown()
+INFO    2020-05-10 12:01:25,120 [main] practiceCheck.observer.concreteclasses.NotificationService  - End of NotifySubscriber()
+INFO    2020-05-10 12:01:25,120 [main] practiceCheck.observer.concreteclasses.NotificationService  - Start of RemoveSubscriber()
+INFO    2020-05-10 12:01:25,120 [main] practiceCheck.observer.concreteclasses.NotificationService  - End of RemoveSubscriber()
+INFO    2020-05-10 12:01:25,120 [main] practiceCheck.observer.concreteclasses.NotificationService  - Start of NotifySubscriber()
+INFO    2020-05-10 12:01:25,121 [main] practiceCheck.observer.concreteclasses.SteveObserver  - Start of onServerDown()
+INFO    2020-05-10 12:01:25,121 [main] practiceCheck.observer.concreteclasses.SteveObserver  - End of onServerDown()
+INFO    2020-05-10 12:01:25,121 [main] practiceCheck.observer.concreteclasses.NotificationService  - End of NotifySubscriber()
+INFO    2020-05-10 12:01:25,121 [main] practiceCheck.ObserverMain  - End of main()
+INFO    2020-05-10 12:11:29,899 [main] practiceCheck.ObserverMain  - Start of main()
+INFO    2020-05-10 12:11:29,904 [main] practiceCheck.observer.concreteclasses.NotificationService  - Start of AddSubscriber()
+INFO    2020-05-10 12:11:29,904 [main] practiceCheck.observer.concreteclasses.NotificationService  - End of AddSubscriber()
+INFO    2020-05-10 12:11:29,904 [main] practiceCheck.observer.concreteclasses.NotificationService  - Start of AddSubscriber()
+INFO    2020-05-10 12:11:29,904 [main] practiceCheck.observer.concreteclasses.NotificationService  - End of AddSubscriber()
+INFO    2020-05-10 12:11:29,904 [main] practiceCheck.observer.concreteclasses.NotificationService  - Start of NotifySubscriber()
+INFO    2020-05-10 12:11:29,904 [main] practiceCheck.observer.concreteclasses.SteveObserver  - Start of onServerDown()
+DEBUG   2020-05-10 12:11:29,905 [main] practiceCheck.observer.concreteclasses.SteveObserver  - Steve : First Message
+INFO    2020-05-10 12:11:29,905 [main] practiceCheck.observer.concreteclasses.SteveObserver  - End of onServerDown()
+INFO    2020-05-10 12:11:29,905 [main] practiceCheck.observer.concreteclasses.JohnObserver  - Start of onServerDown()
+DEBUG   2020-05-10 12:11:29,905 [main] practiceCheck.observer.concreteclasses.JohnObserver  - John : First Message
+INFO    2020-05-10 12:11:29,905 [main] practiceCheck.observer.concreteclasses.JohnObserver  - End of onServerDown()
+INFO    2020-05-10 12:11:29,905 [main] practiceCheck.observer.concreteclasses.NotificationService  - End of NotifySubscriber()
+INFO    2020-05-10 12:11:29,905 [main] practiceCheck.observer.concreteclasses.NotificationService  - Start of RemoveSubscriber()
+INFO    2020-05-10 12:11:29,905 [main] practiceCheck.observer.concreteclasses.NotificationService  - End of RemoveSubscriber()
+INFO    2020-05-10 12:11:29,905 [main] practiceCheck.observer.concreteclasses.NotificationService  - Start of NotifySubscriber()
+INFO    2020-05-10 12:11:29,906 [main] practiceCheck.observer.concreteclasses.SteveObserver  - Start of onServerDown()
+DEBUG   2020-05-10 12:11:29,906 [main] practiceCheck.observer.concreteclasses.SteveObserver  - Steve : Second Message
+INFO    2020-05-10 12:11:29,906 [main] practiceCheck.observer.concreteclasses.SteveObserver  - End of onServerDown()
+INFO    2020-05-10 12:11:29,906 [main] practiceCheck.observer.concreteclasses.NotificationService  - End of NotifySubscriber()
+INFO    2020-05-10 12:11:29,906 [main] practiceCheck.ObserverMain  - End of main()
+INFO    2020-05-10 12:13:06,855 [main] practiceCheck.CarClient  - Start of main()
+INFO    2020-05-10 12:13:06,865 [main] practiceCheck.abstractfactory.classes.MicroCar  - Start of construct()
+DEBUG   2020-05-10 12:13:06,865 [main] practiceCheck.abstractfactory.classes.MicroCar  - Connecting to Micro Car
+INFO    2020-05-10 12:13:06,865 [main] practiceCheck.abstractfactory.classes.MicroCar  - End of construct()
+DEBUG   2020-05-10 12:13:06,866 [main] practiceCheck.CarClient  - CarModel - MICRO located in - USA
+INFO    2020-05-10 12:13:06,867 [main] practiceCheck.abstractfactory.classes.MiniCar  - Start of construct()
+DEBUG   2020-05-10 12:13:06,867 [main] practiceCheck.abstractfactory.classes.MiniCar  - Connecting to Mini Car
+INFO    2020-05-10 12:13:06,867 [main] practiceCheck.abstractfactory.classes.MiniCar  - End of construct()
+DEBUG   2020-05-10 12:13:06,868 [main] practiceCheck.CarClient  - CarModel - MINI located in - INDIA
+INFO    2020-05-10 12:13:06,881 [main] practiceCheck.abstractfactory.classes.LuxuryCar  - Start of construct()
+DEBUG   2020-05-10 12:13:06,881 [main] practiceCheck.abstractfactory.classes.LuxuryCar  - Connecting to luxury car
+INFO    2020-05-10 12:13:06,882 [main] practiceCheck.abstractfactory.classes.LuxuryCar  - End of construct()
+DEBUG   2020-05-10 12:13:06,882 [main] practiceCheck.CarClient  - CarModel - LUXURY located in - DEFAULT
+INFO    2020-05-10 12:13:06,882 [main] practiceCheck.CarClient  - End of main()
